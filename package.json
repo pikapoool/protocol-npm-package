@@ -1,0 +1,25 @@
+{
+  "name": "@pikapoool/sdk",
+  "version": "1.0.2",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikapoool/protocol-npm-package.git"
+  },
+  "keywords": [
+    "pikapoool"
+  ],
+  "author": "pikapoool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikapoool/protocol-npm-package/issues"
+  },
+  "homepage": "https://github.com/pikapoool/protocol-npm-package#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
