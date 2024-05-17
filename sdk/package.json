@@ -1,8 +1,8 @@
 {
   "name": "@pikapoool/sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "description",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,13 @@
     "url": "https://github.com/pikapoool/protocol-npm-package/issues"
   },
   "homepage": "https://github.com/pikapoool/protocol-npm-package#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1"
+  },
   "dependencies": {
+    "materialize-css": "^0.99.0",
     "lodash": "^4.17.21"
   }
 }
